@@ -18,7 +18,7 @@ visualizar el estado financiero y mantener un control claro de tu dinero.
 
 ## Descarga
 
-[Descargar APK](https://github.com/Josg89/Orbit-Finance-Demo/releases/tag/Android_App)
+[Descargar APK]([https://github.com/Josg89/Orbit-Finance-Demo/releases/tag/Android_App](https://github.com/Josg89/Orbit-Finance-Demo/releases/download/Android_App/Orbit.Finance.demo.apk))
 
 > Esta es una versión demo. La app está en desarrollo activo.
 
